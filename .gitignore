@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+
+data/
+models/
+mri_cross_v3/
+
+*.pth
+*.pt
+*.h5
