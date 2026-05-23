@@ -1,0 +1,12 @@
+### Brain Tumor MRI — Baseline (EfficientNetB2) Pipeline
+### Python 3.10+ önerilir
+
+tensorflow>=2.12.0
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+opencv-python-headless>=4.7.0
+imutils>=0.5.4
+matplotlib>=3.7.0
+seaborn>=0.12.2
+gdown>=4.7.3
